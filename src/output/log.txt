@@ -1,0 +1,41 @@
+cycle number 0
+Packet with id 78 created at node 0
+cycle number 1
+Packet with id 78 is in output buffer of node 0 and in direction id 2
+cycle number 2
+Packet with id 78 is in input buffer of node 16 and in direction id 0
+Packet with id 78 is in output buffer of node 16 and in direction id 1
+cycle number 3
+Packet with id 78 is in input buffer of node 17 and in direction id 0
+Packet with id 78 is in output buffer of node 17 and in direction id 1
+cycle number 4
+Packet with id 78 is in input buffer of node 18 and in direction id 0
+Packet with id 78 is in output buffer of node 18 and in direction id 1
+cycle number 5
+Packet with id 78 is in output buffer of node 4 and in direction id 2
+cycle number 6
+Packet with id 78 is in input buffer of node 30 and in direction id 0
+Packet with id 78 is in output buffer of node 30 and in direction id 1
+cycle number 7
+Packet with id 78 is in input buffer of node 31 and in direction id 0
+Packet with id 78 is in output buffer of node 31 and in direction id 1
+cycle number 8
+Packet with id 78 is in output buffer of node 8 and in direction id 2
+cycle number 9
+Packet with id 78 is in input buffer of node 58 and in direction id 0
+Packet with id 78 is in output buffer of node 58 and in direction id 1
+cycle number 10
+Packet with id 78 reached the Destination
+cycle number 11
+cycle number 12
+cycle number 13
+cycle number 14
+cycle number 15
+cycle number 16
+cycle number 17
+cycle number 18
+cycle number 19
+cycle number 20
+cycle number 21
+cycle number 22
+cycle number 23
